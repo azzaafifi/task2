@@ -1,0 +1,38 @@
+
+body{
+    background-image: url('../img/wednesday-netflix-series-cast-explainer-1662044278.jpg');
+    background-size: cover;
+}
+.img_a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+}
+div{
+    padding-left: 588px;
+    font-size: large;
+    
+    color: rgb(255, 255, 255);
+}
+.mm{
+    padding-left: 50px;
+    font-size: large;
+    color: blue;
+    border-radius: 10px;
+}
+.mn{
+    border-radius: 10px;
+    color: blue;
+    padding: 5px 10px;
+    transition: 0.5s;
+    text-align: center;
+
+    
+    
+    
+    
+}
+
+
+}
